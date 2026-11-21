@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Berk Kaldar 👋
 
-<!--
-**berkaldar/berkaldar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Automation Engineer | SDET | AI-Native Engineering
 
-Here are some ideas to get you started:
+I'm a QA Automation Engineer with 4+ years of experience in software quality engineering, test automation, API testing, and microservice-based architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building reliable automation solutions and improving software quality through modern testing practices and CI/CD workflows.
+
+I'm also interested in AI-native software development, LLM-powered engineering workflows, and intelligent test automation.
+
+### 🛠️ Technical Skills
+
+**Test Automation**
+- Playwright
+- JavaScript
+- Selenium
+- Python
+- API Testing
+- Postman
+
+**CI/CD & Infrastructure**
+- Jenkins
+- GitHub Actions
+- Kubernetes
+
+**Observability**
+- Grafana
+- Metrics, Logs & Distributed Tracing
+
+**AI & Software Engineering**
+- AI-assisted development
+- LLM-powered test data generation
+- Specification-driven development
+- Automated verification workflows
+
+### 🚀 Featured Projects
+
+- [ANEW - AI Native Engineering Workspace](https://github.com/berkaldar/leavemanagercoursedemo)
+
+### 🌍 Languages
+
+- Turkish: Native
+- English: Professional
+- Spanish: Professional
+
+### 📫 Connect with me
+
+- GitHub: [@berkaldar](https://github.com/berkaldar)
